@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Iron box",
+             "imgSrc":"../img/Ironbox.webp",
+             "price":5000
+             },
+             {
+             "product_id":11,
+             "product_name":"Chair",
+             "imgSrc":"../img/chair.jpg",
+             "price":1000
+             },
+             {
+             "product_id":13,
+             "product_name":"Fan",
+             "imgSrc":"../img/fan.jpg",
+             "price":3000
+             },
+             {
+             "product_id":14,
+             "product_name":"Electric kettle",
+             "imgSrc":"../img/Electric-Steel-Kettle-jpg.webp",
+             "price":6000
+             },
+             {
+             "product_id":15,
+             "product_name":"Mixer Grinder",
+             "imgSrc":"../img/Mixer-Grinder.webp",
+             "price":6000
+             },
+             {
+             "product_id":16,
+             "product_name":"Refrigerator",
+             "imgSrc":"../img/refrigerator.avif",
+             "price":60000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"Men Jeans",
+            "imgSrc":"../img/menjeans.jpg",
+            "price":3000
+            },
+            {
+            "product_id":18,
+            "product_name":"T Shirt",
+            "imgSrc":"../img/MenT-Shirts.avif",
+            "price":1999
+            },
+            {
+            "product_id":19,
+            "product_name":"Men shoes",
+            "imgSrc":"../img/men'sShoes.jpg ",
+            "price":1500
+            },
+            {
+            "product_id":20,
+            "product_name":"Men Watch",
+            "imgSrc":"../img/watch.avif",
+            "price":6000
+            },
+            {
+            "product_id":21,
+            "product_name":"Shirt",
+            "imgSrc":"../img/shirt.jpg",
+            "price":2000
+            },
+            {
+            "product_id":22,
+            "product_name":"Wallet",
+            "imgSrc":"../img/Wallet.webp",
+            "price":1000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"Women Jeans",
+             "imgSrc":"../img/Jeans.png",
+             "price":600
+             },
+             {
+             "product_id":24,
+             "product_name":"Dress",
+             "imgSrc":"../img/Dress.jpg",
+             "price":500
+             },
+             {
+             "product_id":25,
+             "product_name":"Watch",
+             "imgSrc":"../img/womenwatch.jpg",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"Bracelet",
+             "imgSrc":"../img/bracelet.jpg",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"Heels",
+             "imgSrc":"../img/womensfootwear.jpg",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"Women Bag",
+             "imgSrc":"../img/shoulderbag.jpg",
+             "price":1000
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"Biryani",
+              "imgSrc":"../img/Biryani.avif",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"Noodles",
+              "imgSrc":"../img/noodles.jpg",
+              "price":250
+              },
+              {
+              "product_id":31,
+              "product_name":"Chappathi",
+              "imgSrc":"../img/chapati.jpg",
+              "price":150
+              },
+              {
+              "product_id":32,
+              "product_name":"Pasta",
+              "imgSrc":"../img/Pasta.webp",
+              "price":399
+              },
+              {
+              "product_id":33,
+              "product_name":"Veg thali",
+              "imgSrc":"../img/veg thali.jpg",
+              "price":499
+              },
+              {
+              "product_id":34,
+              "product_name":"Gulab jamun",
+              "imgSrc":"../img/gulab jamun.webp",
+              "price":60
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"Height",
+              "imgSrc":"../img/height of success book.jpg",
+              "price":100
+              },
+              {
+              "product_id":36,
+              "product_name":"Nikita",
+              "imgSrc":"../img/book2.jpg",
+              "price":199
+              },
+              {
+              "product_id":37,
+              "product_name":"Success",
+              "imgSrc":"../img/book3.jpg",
+              "price":499
+              },
+              {
+              "product_id":38,
+              "product_name":"World",
+              "imgSrc":"../img/book4.webp",
+              "price":499
+              },
+              {
+              "product_id":39,
+              "product_name":"Moon",
+              "imgSrc":"../img/book5.avif",
+              "price":399
+              },
+              {
+              "product_id":40,
+              "product_name":"End",
+              "imgSrc":"../img/Book6.jpg",
+              "price":399
+              }]
+ 
+}
+]
