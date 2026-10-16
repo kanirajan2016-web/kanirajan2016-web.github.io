@@ -122,7 +122,7 @@
  "products":[{
               "product_id":29,
               "product_name":"Biryani",
-              "imgSrc":"../img/Biryani.avif",
+              "imgSrc":"../img/biryani.avif",
               "price":399
               },
               {
